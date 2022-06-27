@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: sergejmartov <sergejmartov@student.42.f    +#+  +:+       +#+         #
+#    By: gjacinta <gjacinta@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2022/06/24 22:04:04 by sergejmarto       #+#    #+#              #
-#    Updated: 2022/06/24 22:05:08 by sergejmarto      ###   ########.fr        #
+#    Created: 2022/06/27 15:36:01 by gjacinta          #+#    #+#              #
+#    Updated: 2022/06/27 15:36:01 by gjacinta         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 

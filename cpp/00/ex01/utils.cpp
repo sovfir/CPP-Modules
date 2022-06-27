@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   utils.cpp                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sergejmartov <sergejmartov@student.42.f    +#+  +:+       +#+        */
+/*   By: gjacinta <gjacinta@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/06/24 21:22:02 by sergejmarto       #+#    #+#             */
-/*   Updated: 2022/06/24 22:02:00 by sergejmarto      ###   ########.fr       */
+/*   Created: 2022/06/27 15:36:18 by gjacinta          #+#    #+#             */
+/*   Updated: 2022/06/27 15:36:18 by gjacinta         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
